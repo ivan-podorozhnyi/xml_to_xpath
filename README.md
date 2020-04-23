@@ -9,7 +9,6 @@ This module is able to parse and XML source file and print all the element/Xpath
 
 
 ### Example of output
-> update and install this package first
 
 ```shell
 $ python xml_to_xpath.py source.xml
